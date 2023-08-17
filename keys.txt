@@ -6,6 +6,6 @@ EV charging
 account executive
 cleaning systems
 no-obligation
-я
+\b\w*я\w*\b
 @gmail.com
-и
+\b\w*и\w*\b

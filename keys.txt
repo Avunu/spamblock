@@ -14,3 +14,5 @@ visa
 exewetir
 opreter
 operator
+domain
+https

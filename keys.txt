@@ -18,3 +18,5 @@ domain
 https
 followers
 guarantee
+plz
+job

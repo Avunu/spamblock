@@ -7,7 +7,6 @@ account executive
 cleaning systems
 no-obligation
 \b\w*я\w*\b
-@gmail.com
 \b\w*и\w*\b
 viza
 visa
